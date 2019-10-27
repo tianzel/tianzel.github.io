@@ -494,21 +494,26 @@ small {
   }
 }
 .footer {
+  background-color: #2c2c2c;
   width: 100%;
   padding: 20px;
+}
+.footer .footer-upyun {
+  margin: auto;
+  width: 100px;
 }
 .footer .footer-container {
   margin: auto;
   width: 100%;
-  max-width: max-content-width;
+  max-width: max-content-widths;
   text-align: center;
-  color: #aeb5be;
+  color: rgba(255,255,255,0.7);
 }
 .footer .footer-container p {
   line-height: 2;
 }
 .footer .footer-container p a {
-  color: #161b3d;
+  color: rgba(255,255,255,0.7);
   font-weight: bolder;
 }
 .card-container {
