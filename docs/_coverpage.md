@@ -9,5 +9,6 @@
 - Python学习总结 -->
 
 [GitHub](https://github.com/tianzel/tianzel.github.io/)
-[查看文档](#简介)
+[查看文档](/java/)
 
+![](https://api.dujin.org/bing/1920.php)
