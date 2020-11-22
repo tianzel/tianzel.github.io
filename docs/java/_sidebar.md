@@ -1,3 +1,3 @@
 - Docs
 
-  - [test](/java/test)
+  - [Java简介](/java/1)
